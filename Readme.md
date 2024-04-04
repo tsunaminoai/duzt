@@ -26,6 +26,12 @@ To enter a development shell with all dependencies available, use:
 nix develop
 ```
 
+## Zig
+
+This project uses the Zig programming language. You can find more information about Zig [here](https://ziglang.org/).
+
+By default, this devshell tracks zig master. `ZLS` is also included in the devshell to allow for vscode integration.
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
